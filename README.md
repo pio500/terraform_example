@@ -1,10 +1,10 @@
 # terraform_example
 
-terraform init
-terraform plan
-terraform apply
-
-
-
-for delete
-terraform destroy
+terraform init\n
+terraform plan\n
+terraform apply\n
+\n
+\n
+\n
+for delete\n
+terraform destroy\n
